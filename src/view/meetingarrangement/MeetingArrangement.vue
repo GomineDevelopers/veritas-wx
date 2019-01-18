@@ -21,6 +21,9 @@
           </svg>
         </div>
         <div class="linear_gradients"></div>
+        <div class="hotel_map">
+          地图
+        </div>
       </div>
     </div>
   </div>
